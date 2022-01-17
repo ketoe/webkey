@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react';
+import React from 'react';
 import faceme from '../css/images/faceme.png';
 import $ from 'jquery';
 
