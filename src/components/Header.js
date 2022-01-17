@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react';
+import React from 'react';
 import logo from './css/images/logo.png';
 import facebook from './css/images/facebook.png';
 import { NavLink } from 'react-router-dom';
