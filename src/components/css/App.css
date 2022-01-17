@@ -36,7 +36,7 @@ nav li {
     display: inline;
     position: relative;
     padding-left: 70px;
-    padding-bottom: 4px;
+    padding-bottom: 3px;
     font-size: 20px;
     font-family: 'Rajdhani', sans-serif;
     top: 15px;
@@ -56,12 +56,12 @@ nav li a {
 }
 
 nav li a:hover {
-    border-bottom: 6px solid #02e5b9;
+    border-bottom: 5.5px solid #02e5b9;
     color: #02e5b9;
 }
 
 nav li a.active {
-    border-bottom: 6px solid #02e5b9;
+    border-bottom: 5.5px solid #02e5b9;
     color: #02e5b9;
 }
 
